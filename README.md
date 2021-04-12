@@ -1,10 +1,10 @@
 * ## 個人簡介 ##
-  ### 姓名/Name: 蔡明杰(Ming-Chieh,Tsai)
-  ### 就讀學校/School: 東吳大學(SooChow University)
-  ### 就讀科系/Major: 資料科學系、巨量資料管理(Data Science、Big Data Management)
-  
-  
-* ## 1092 Cloud Computing 作業繳交 ##
+  ### Name: 蔡明杰(Ming-Chieh,Tsai)
+  ### School: 東吳大學(SooChow University)
+  ### Major: 巨量資料管理(Big Data Management)
+
+
+* ## 1092 Cloud Computing Homework ##
  
   ### Homework1: 
   #### 說明:以了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。
