@@ -21,3 +21,9 @@
   [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/05fFDzCUeFc)
   
   [Buckey Policy Example](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html)
+  
+  ### Homework4:
+  #### 說明:運用無伺服器框架(Serverless)串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。
+
+  [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/0KFP_QR56pw)
+  
