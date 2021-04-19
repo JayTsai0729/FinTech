@@ -1,8 +1,18 @@
+* ## 1092 Cloud Computing Service - FinTech (雲端運算服務)
 * ### 個人簡介(Personal  Info) ##
   + #### Name: 蔡明杰(Ming-Chieh,Tsai)
   + #### School: 東吳大學(SooChow University)
   + #### Major: 巨量資料管理(Big Data Management)
+  + #### Email: jaytsai0729@gmail.com
 
+
+* ###課程簡介(Course Information) ##
+  + #### Teacher: [蔡芸琤 Tsai, Yun-Cheng](https://github.com/pecu?tab=repositories)
+  + #### Course plan：[授課計劃表](http://doc.sys.scu.edu.tw/teachplanHtml/1092/1092BDM21301.html)
+  + #### Teaching Assistant:
+    - [陳偉傑(東吳巨資)](https://github.com/sefx5ever)   
+    - 蔡雨臻(東吳巨資)
+    - 司福民(台大電機)
 
 * ### 1092 Cloud Computing Homework ##
  
