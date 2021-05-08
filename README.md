@@ -57,7 +57,7 @@
   [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/0KFP_QR56pw)
   
   ### Homework5:
-  ####　說明:運用資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為。
+  #### 說明:運用資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為。
   
   [Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/pMHO2Vvi5qE)
   
