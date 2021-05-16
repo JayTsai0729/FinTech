@@ -61,3 +61,8 @@
   
   [Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/pMHO2Vvi5qE)
   
+  ### Homework6:
+  #### 說明:透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等。
+  
+  [Create a Docker file and deploy on EC2](https://youtu.be/uIRCvukyhls)
+  
