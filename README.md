@@ -66,3 +66,5 @@
   
   [Create a Docker file and deploy on EC2](https://youtu.be/uIRCvukyhls)
   
+  [Docker教學_陳偉傑助教提供](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
+  
